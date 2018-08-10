@@ -1,4 +1,4 @@
-package com.woody.spark.job;
+package com.woody.spark.job.loaddb;
 
 import org.apache.spark.SparkConf;
 import org.apache.spark.SparkContext;

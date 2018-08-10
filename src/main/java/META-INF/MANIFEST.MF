@@ -1,3 +1,3 @@
 Manifest-Version: 1.0
-Main-Class: com.woody.spark.job.GoodsItemNameByCategory
+Main-Class: com.woody.spark.job.loaddb.GoodsItemNameByCategory
 

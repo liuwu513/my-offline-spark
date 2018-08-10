@@ -1,4 +1,4 @@
-package com.woody.spark.job;
+package com.woody.spark.job.loaddb;
 
 import com.woody.spark.entity.KeyByCounts;
 import com.woody.spark.entity.SchemaBuilder;
